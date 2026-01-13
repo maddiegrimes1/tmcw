@@ -16,4 +16,4 @@
 - **Personal Interests**: Fitness, Wellness
 - **Project Preferences**: Game Developement, AI, Security, Applications
 ## Fun Fact
-- **Something”: I'm allergic to the cold
+- **Something”**: I'm allergic to the cold
